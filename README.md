@@ -57,7 +57,7 @@ cd weather-app
 3. Replace your API key inside `script.js`.
 
 ```javascript
-const apiKey = "YOUR_API_KEY";
+const apiKey = "871f5162ebfb9a44f78881863d484c56";
 ```
 
 ## 📖 What I Learned
@@ -74,7 +74,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 🌐 Live Demo
 
-Add your deployed project link here:
+[deployed project link here:]https: //web-builder22.github.io/weather-app/
 
 
 
